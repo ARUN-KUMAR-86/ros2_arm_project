@@ -1,0 +1,25 @@
+# ROS2 build folders (ignore everywhere)
+build/
+install/
+log/
+
+# Python cache (ignore recursively)
+**/__pycache__/
+**/*.pyc
+
+# CMake files
+**/CMakeFiles/
+**/CMakeCache.txt
+
+# Colcon files
+**/.colcon/
+
+# VSCode
+.vscode/
+
+# Linux temp files
+**/*~
+**/.DS_Store
+
+# RViz config temporary
+**/*.rviz
