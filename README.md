@@ -2,7 +2,7 @@
 
 This repository contains a **3 Degree of Freedom (3DOF) robotic arm simulation** developed using ROS2.
 The project demonstrates robot description, visualization in RViz2, and keyboard-based teleoperation control.
-
+https://youtu.be/x5qHGbrOjgs
 ---
 
 ## 📌 Features
